@@ -1,0 +1,2 @@
+V	180129060419Z		1002	unknown	/C=US/ST=TX/O=VMware/CN=alpha.vmware.local
+V	180129060610Z		1003	unknown	/C=US/ST=TX/O=VMware/CN=bravo.vmware.local
